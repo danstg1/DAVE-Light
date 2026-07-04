@@ -174,6 +174,9 @@ showing her live number** (that's the proof the data route works and clears the 
 
 DAVE will connect, log in, and start showing her live glucose as colour.
 
+### Step 6 — Placing in the Shell / Body
+
+Once the lights are all connected and you are happy with the system you can take out the eletectronics of the night light and replace them with the current system, ensuring a wire is hanging out for power. This step is actually quite easy if a night light like the one above is used however this step is significantly easier with 2 people as one person can stretch the silcione casing and one person can place the breadboard in as gently as possible.
 ---
 
 ### Troubleshooting notes
