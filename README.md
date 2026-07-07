@@ -2,8 +2,9 @@
 The DAVE (Diabetes Analysis and Visulation Electronic) is an LED Light Strip that changes colour based on data from a Libre 2 Sensor by Abbott. NOTE: This software is not to be used in replacement of any system or alarms, it is simply an aid.
 
 Below is Dave inside and outside its shell. The one outside the shell is glowing White as it is not connected to Wifi.
-<img src="dave-with-laptop.jpeg" alt="DAVE glowing Green" width="400">
-<img src="davemain.png" alt="DAVE glowing White" width="400">
+<img src="images/davemain.png" alt="DAVE glowing White" width="400">
+<img src="images/dave-with-laptop.jpeg" alt="DAVE glowing Green" width="400">
+
 
 # DAVE — a glucose mood light
 
@@ -108,6 +109,9 @@ screw the SMA antenna onto the other end of the cable.
 > **No antenna = no WiFi.** Always connect it *before* powering on.
 
 ### Step 2 — Wire it up
+<img src="images/dave-full.jpeg" alt="DAVE glowing Green" width="400">
+<img src="images/dave-with-laptop.jpeg" alt="DAVE glowing Green" width="400">
+<img src="images/davediagram.png" alt="DAVE glowing Green" width="400">
 
 Only three connections, plus the capacitor across the power rails:
 
