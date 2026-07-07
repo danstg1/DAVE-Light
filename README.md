@@ -3,7 +3,7 @@ The DAVE (Diabetes Analysis and Visulation Electronic) is an LED Light Strip tha
 
 Below is Dave inside and outside its shell. The one outside the shell is glowing White as it is not connected to Wifi.
 <img src="dave-with-laptop.jpeg" alt="DAVE glowing Green" width="400">
-<img src="dave-cloud.jpeg" alt="DAVE glowing White" width="400">
+<img src="dave-main.jpeg" alt="DAVE glowing White" width="400">
 
 # DAVE — a glucose mood light
 
