@@ -109,7 +109,7 @@ screw the SMA antenna onto the other end of the cable.
 > **No antenna = no WiFi.** Always connect it *before* powering on.
 
 ### Step 2 — Wire it up
-<img src="images/dave-full.jpeg" alt="DAVE glowing Green" width="300">
+<img src="images/dave-full.jpeg" alt="DAVE glowing Green" width="500">
 <img src="images/dave-with-laptop.jpeg" alt="DAVE glowing Green" width="200">
 <img src="images/davediagram.png" alt="DAVE glowing Green" width="200">
 
